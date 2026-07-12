@@ -1,2 +1,0 @@
-# Sina-M
-Hello World .
